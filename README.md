@@ -20,5 +20,5 @@ Projects:
 · College LAN Simulation — Configured VLANs and OSPF routing for a 100-node network, reducing broadcast traffic by 60%.
 
 
-Email: ahmedaahmmed10@gmail.com
+Email: ahmedaaina10@gmail.com
 LinkedIn: https://pk.linkedin.com/in/aleshba-aaina-04374b27b
